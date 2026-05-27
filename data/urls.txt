@@ -1,0 +1,88 @@
+# Japan Travel — Curated URLs for RAG scraping
+# Lines starting with # are comments and will be ignored
+
+# Destinations: Kanto
+https://www.japan.travel/en/destinations/kanto/tokyo/
+https://www.japan.travel/en/destinations/kanto/kanagawa/
+https://www.japan.travel/en/destinations/kanto/saitama/
+https://www.japan.travel/en/destinations/kanto/ibaraki/
+https://www.japan.travel/en/destinations/kanto/chiba/
+
+# Destinations: Kansai
+https://www.japan.travel/en/destinations/kansai/kyoto/
+https://www.japan.travel/en/destinations/kansai/osaka/
+https://www.japan.travel/en/destinations/kansai/nara/
+https://www.japan.travel/en/destinations/kansai/shiga/
+
+# Destinations: other regions
+https://www.japan.travel/en/destinations/hokkaido/
+https://www.japan.travel/en/destinations/tohoku/miyagi/
+https://www.japan.travel/en/destinations/tohoku/fukushima/fukushima-city/
+https://www.japan.travel/en/destinations/chugoku/
+https://www.japan.travel/en/destinations/shikoku/
+https://www.japan.travel/en/destinations/kyushu/
+https://www.japan.travel/en/destinations/okinawa/
+
+# Food & drink
+https://www.japan.travel/en/things-to-do/eat-and-drink/
+https://www.japan.travel/en/guide/sushi-in-japan/
+https://www.japan.travel/en/guide/japanese-whisky/
+https://www.japan.travel/en/guide/a-guide-to-ramen-in-japan/
+https://www.japan.travel/en/guide/dinner-at-a-japanese-tavern/
+
+# Nature
+https://www.japan.travel/en/guide/diving/
+https://www.japan.travel/en/guide/skiing/
+https://www.japan.travel/en/see-and-do/flowers/
+https://www.japan.travel/en/sustainable/adventure-great-outdoors/
+https://www.japan.travel/en/guide/off-the-beaten-track/
+
+# Culture & arts
+https://www.japan.travel/en/story/explore-the-world-of-japanese-architecture/
+https://www.japan.travel/en/spot/1128/
+https://www.japan.travel/en/spot/798/
+https://www.japan.travel/en/guide/japanese-anime-and-comics/
+https://www.japan.travel/en/story/art-festivals/
+
+# Activities
+https://www.japan.travel/en/guide/night-life/
+https://www.japan.travel/en/spot/1896/
+https://www.japan.travel/en/spot/1598/
+https://www.japan.travel/en/see-and-do/theme-park/
+https://www.japan.travel/en/destinations/tokai/mie/iga-ueno/
+https://www.japan.travel/en/spot/1680/
+https://www.japan.travel/en/fuji-guide/mt-fuji-climbing-guide/
+
+# Plan your trip
+# Visa Info
+https://www.japan.travel/en/plan/visa-info/
+
+# Lodging
+https://www.japan.travel/en/guide/temple-stays/
+https://www.japan.travel/en/guide/homestay-farmstay/
+
+# Travel to Japan
+https://www.japan.travel/en/plan/getting-to-japan/
+
+# Transportation
+https://www.japan.travel/en/plan/getting-around/
+https://www.japan.travel/en/plan/getting-around/shinkansen/
+https://www.japan.travel/en/guide/traveling-by-rail/
+https://www.japan.travel/en/guide/how-to-travel-by-train-and-bus-in-japan/
+
+# Weather Guide
+https://www.japan.travel/en/plan/weather/
+https://www.japan.travel/en/guide/spring-guide/
+https://www.japan.travel/en/guide/summer-guide/
+https://www.japan.travel/en/guide/autumn-guide/
+https://www.japan.travel/en/guide/winter-guide/
+
+# Japan Laws
+https://www.japan.travel/en/plan/local-laws/
+
+# Budget
+https://www.japan.travel/en/plan/tips-for-budget-travels/
+
+# Stories & guides
+https://www.japan.travel/en/story-and-guide/
+https://www.japan.travel/en/guide/accessibility-in-japan/
