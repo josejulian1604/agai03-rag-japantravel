@@ -27,6 +27,7 @@ cd agai03-rag-japantravel
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
+playwright install chromium
 ```
 
 3. Set up your environment variables:
@@ -66,10 +67,19 @@ rag-chatbot/
 ├── .env.example
 └── README.md
 ```
+## 💬 Sample Questions
+
+- *"What airports serve Tokyo?"*
+- *"What's the best time to visit Kyoto for cherry blossoms?"*
+- *"How do I travel between cities by Shinkansen?"*
+- *"Do I need a visa to visit Japan?"*
+- *"What traditional food should I try in Osaka?"*
+
+**Knowledge base:** 55 pages scraped from japan.travel · 338 Q/A pairs · 836 document chunks
 
 ## 🛠️ Tech Stack
 
-- **Scraping:** requests, BeautifulSoup4, playwright
+- **Scraping:** Playwright, BeautifulSoup4
 - **LLM:** Claude (Anthropic) via LangChain
 - **Embeddings:** sentence-transformers (all-MiniLM-L6-v2)
 - **Vector DB:** ChromaDB
